@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-digital-garden/"}
+{"dg-publish":true,"permalink":"/welcome-to-my-digital-garden/","tags":["gardenEntry"]}
 ---
 
 > A continuously evolving network of ideas, projects, and reflections.
